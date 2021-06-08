@@ -18,7 +18,7 @@ To run the classifier on your pre-trained model:
 
 Pretraining performance:
 
-<img src="./figures/pretrain_results.jpg?raw=true)" alt="pretraining performance" width="700"/>
+<img src="./figures/pretrain_results.jpeg?raw=true)" alt="pretraining performance" width="700"/>
 
 Final test accuracy of linear classifier: 
 
